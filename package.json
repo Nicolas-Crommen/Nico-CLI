@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Nicolas-Crommen/Nico-CLI/issues"
   },
-  "homepage": "https://github.com/Nicolas-Crommen/Nico-CLI#readme"
+  "homepage": "https://github.com/Nicolas-Crommen/Nico-CLI#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "country-list": "^2.2.0"
+  }
 }
