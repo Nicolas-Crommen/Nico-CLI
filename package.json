@@ -1,6 +1,7 @@
 {
-  "name": "nico-cli",
-  "version": "1.0.0",
+  "name": "@nicolas1576/holidates",
+  "version": "1.0.1",
+  "bin": "./index.js",
   "description": "My first CLI",
   "main": "index.js",
   "scripts": {
